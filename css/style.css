@@ -472,6 +472,15 @@ mark,
   max-width: 100%;
   height: auto;
 }
+.img-university {
+  width: 50%;
+  height: auto;
+}
+
+.img-certifies {
+  max-width: 100%;
+  height: auto;
+}
 
 .img-thumbnail {
   padding: 0.25rem;
