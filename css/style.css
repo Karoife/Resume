@@ -122,6 +122,10 @@ dd {
   margin-bottom: 0.5rem;
   margin-left: 0;
 }
+.wolver {
+  max-width: 100%;
+  height: auto;
+}
 
 blockquote {
   margin: 0 0 1rem;
